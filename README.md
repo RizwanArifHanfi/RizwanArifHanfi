@@ -29,7 +29,7 @@ I'm a passionate **Software Engineer** specializing in backend and automation, w
 
 ## 📝 Latest Projects & Contributions
 
-<!-- Pin your best repositories below or use GitHub's pinned feature --> -->
+<!-- Pin your best repositories below or use GitHub's pinned feature -->
 
 ---
 
